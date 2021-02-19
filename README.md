@@ -1,7 +1,7 @@
 #Geog458 lab4:
 ___
 
-##Tile one screenshot - a modified basemap
+## Tile one screenshot - a modified basemap
 ![](/img/basemap.jpg)
 ![](/img/base1.jpg)
 
@@ -9,7 +9,7 @@ ___
 - Geographic Area of Focus: Washington state
 - Zoom Levels: Max Zoom - 11; Min Zoom - 6
 ___
-##Tile two screenshot - data points (park viewing point in washington state)
+## Tile two screenshot - data points (park viewing point in washington state)
 ![](/img/basemapdata.jpg)
 
 - It is a data layer that shows the park viewing points in washington state in record
@@ -17,14 +17,14 @@ ___
 - Zoom Levels: Max Zoom - 11; Min Zoom - 6
 
 ___
-##Tile three screenshot - basemap and Data
+## Tile three screenshot - basemap and Data
 ![](/img/basemapdata.jpg)
 
 -  Tile utilizing the modified basemap from Tile one & the map data from Tile two
 - Geographic Area of Focus: Washington state
 - Zoom Levels: Max Zoom - 11; Min Zoom - 6
 ___
-##Tile four screenshot - uw style washington roadmap
+## Tile four screenshot - uw style washington roadmap
 ![](/img/uw.jpg)
 
 
