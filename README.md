@@ -10,7 +10,7 @@ ___
 - Zoom Levels: Max Zoom - 11; Min Zoom - 6
 ___
 ## Tile two screenshot - data points (park viewing point in washington state)
-![](/img/basemapdata.jpg)
+![](/img/data.jpg)
 
 - It is a data layer that shows the park viewing points in washington state in record
 - Geographic Area of Focus: Washington state
