@@ -1,6 +1,6 @@
 # Geog458 lab4:
 
-#### view website here : https://yunzez.github.io/washington_basemap/.
+#### view website here : https://yunzez.github.io/washington_basemap/
 ___
 
 ## Tile one screenshot - a modified basemap
